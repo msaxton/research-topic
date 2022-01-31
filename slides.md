@@ -51,6 +51,7 @@ I am researching...
 
 **in order to help my reader understand** how the media plays a role in the construction of gender norms.
 
+
 #### Putting it all together
 
 I am researching the conflict between _machismo_ and queer identity in recent Latin American films
@@ -58,7 +59,7 @@ because I want to find out how these films portray masculinity
 in order to help my reader understand how the media plays a role in the construction of gender norms.
 
 
-### Choosing a research topic
+### Workshop: Choosing a research topic
 
 1. Write down a series of interests you have in the context of this course (don't worry about being too specific yet).
 
@@ -83,6 +84,9 @@ in order to help my reader understand how the media plays a role in the construc
 6. Articulate the significance of your topic.
 
 7. Create a scaffold for your research topic:
+<br>
 "I am researching...
+<br>
 because I want to find out...
+<br>
 in order to help my reader understand...
