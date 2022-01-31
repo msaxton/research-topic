@@ -23,11 +23,11 @@ Are there sufficient resources available on the topic?
 Is the topic narrow enough to be addressed in a research paper?
 
 General topic: Islamic thought in the modern world
-<br>
+
 Narrow topic: The popular uprisings' in Egypt during the 2010s affect on Islamic political philosophy?"
 
 General topic: Representations of queerness in the media
-<br>
+
 Narrow topic: The conflict between _machismo_ and queer identity in recent Latin American film
 
 
@@ -50,7 +50,6 @@ I am researching...
 ...in order to help my reader understand...
 
 **in order to help my reader understand** how the media plays a role in the construction of gender norms.
-
 
 #### Putting it all together
 
@@ -90,3 +89,8 @@ in order to help my reader understand how the media plays a role in the construc
 because I want to find out...
 <br>
 in order to help my reader understand...
+
+
+### Moving forward:
+
+Begin collecting research materials by using key words from your topic as search terms in JumboSearch and other library databases.
