@@ -6,9 +6,11 @@
 <br>
 micah.saxton@tufts.edu
 
+
 ### What is a research topic?
 
 "A [research] topic is an approach to a subject, one that asks a question whose answer solves a problem that your readers care about." (Booth et al., 2014)
+
 
 ### What is a _good_ research topic?
 
@@ -52,6 +54,7 @@ I am researching...
 I am researching the conflict between _machismo_ and queer identity in recent Latin American films
 because I want to find out how these films portray masculinity
 in order to help my reader understand how the media plays a role in the construction of gender norms.
+
 
 ### Choosing a research topic
 
