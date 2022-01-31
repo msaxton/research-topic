@@ -23,9 +23,11 @@ Are there sufficient resources available on the topic?
 Is the topic narrow enough to be addressed in a research paper?
 
 General topic: Islamic thought in the modern world
+<br>
 Narrow topic: The popular uprisings' in Egypt during the 2010s affect on Islamic political philosophy?"
 
 General topic: Representations of queerness in the media
+<br>
 Narrow topic: The conflict between _machismo_ and queer identity in recent Latin American film
 
 
