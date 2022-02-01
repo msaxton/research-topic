@@ -24,7 +24,7 @@ Is the topic narrow enough to be addressed in a research paper?
 
 General topic: Islamic thought in the modern world
 
-Narrow topic: The popular uprisings' in Egypt during the 2010s affect on Islamic political philosophy?"
+Narrow topic: The effect of the popular uprisings in Egypt during the 2010s on Islamic political philosophy
 
 General topic: Representations of queerness in the media
 
